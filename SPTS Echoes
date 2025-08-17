@@ -6,5 +6,8 @@
   "Welcome!": {
     "Tokens": 1500,
     "TPM": 5
+  },
+  "Troll": {
+    "Action": "kick;testing!"
   }
 }
