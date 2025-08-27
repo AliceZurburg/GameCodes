@@ -1,0 +1,12 @@
+{
+  "SPTS":{
+    "TPM": 2,
+    "Training": 1
+  },
+  "Weapon":{
+    "Strength": 1,
+    "Coins": 1,
+    "Gems": 1,
+    "Luck": 1
+  }
+}
