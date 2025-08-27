@@ -1,7 +1,7 @@
 {
   "SPTS":{
     "TPM": 2,
-    "Training": 2
+    "Training": 10
   },
   "Weapon":{
     "Strength": 1,
