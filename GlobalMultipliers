@@ -8,5 +8,8 @@
     "Coins": 1,
     "Gems": 1,
     "Luck": 1
+  },
+  "Filler": {
+    "Hi": 1
   }
 }
