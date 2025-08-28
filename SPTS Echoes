@@ -7,7 +7,7 @@
     "Tokens": 1500,
     "TPM": 5
   },
-  "Bong": {
-    "Action": "kick;You have Been Bonged!"
+  "Bonk": {
+    "Action": "kick;You have Been Bonked!"
   }
 }
