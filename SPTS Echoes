@@ -7,6 +7,10 @@
     "Tokens": 1500,
     "TPM": 5
   },
+  "1kVisits!": {
+    "Tokens": 1000,
+    "TPM": 10
+  },
   "Bonk": {
     "Action": "kick;You have Been Bonked!"
   }
