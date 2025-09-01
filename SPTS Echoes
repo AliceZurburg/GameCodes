@@ -11,6 +11,10 @@
     "Tokens": 1000,
     "TPM": 10
   },
+  "Vanessa": {
+    "Tokens": 2500,
+    "TPM": 15
+  },
   "Bonk": {
     "Action": "kick;You have Been Bonked!"
   }
