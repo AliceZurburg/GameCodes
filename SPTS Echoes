@@ -15,6 +15,10 @@
     "Tokens": 2500,
     "TPM": 15
   },
+  "Delayed": {
+    "Tokens": 2000,
+    "TPM": 5
+  },
   "Bonk": {
     "Action": "kick;You have Been Bonked!"
   }
