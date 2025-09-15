@@ -19,6 +19,10 @@
     "Tokens": 2000,
     "TPM": 5
   },
+  "SorryForDelay": {
+    "Tokens": 2000,
+    "TPM": 5
+  },
   "Bonk": {
     "Action": "kick;You have Been Bonked!"
   }
